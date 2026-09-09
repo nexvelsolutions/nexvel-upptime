@@ -419,18 +419,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nexvelsolutions.com.ico",
     "slug": "test-down-site-2",
     "status": "up",
-    "uptime": "75.28%",
-    "uptimeDay": "75.28%",
-    "uptimeWeek": "75.28%",
-    "uptimeMonth": "75.28%",
-    "uptimeYear": "75.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 272,
     "timeWeek": 272,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2026-09-09": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
