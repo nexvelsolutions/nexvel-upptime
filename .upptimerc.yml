@@ -49,8 +49,8 @@ sites:
     url: https://surreystrathmorewp.com/
   - name: Zakian
     url: https://www.zakianrugs.com/
-  - name: Test Down Site
-    url: https://httpstat.us/500
+  - name: Test Down Site 2
+    url: https://httpstat.us
 
 status-website:
   # No custom domain — using the default GitHub Pages path instead
