@@ -56,7 +56,7 @@ sites:
 
 status-website:
   # No custom domain — using the default GitHub Pages path instead
-  baseUrl: /upptime
+  baseUrl: /nexvel-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Nexvel Solutions Client Status
   introTitle: "**Nexvel Solutions** client website uptime monitor and status page."
