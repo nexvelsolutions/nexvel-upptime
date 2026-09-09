@@ -419,18 +419,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/httpstat.us.ico",
     "slug": "test-down-site-2",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "98.81%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 694,
     "timeDay": 694,
     "timeWeek": 694,
     "timeMonth": 694,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2026-09-09": 0
+      "2026-09-09": 1
     }
   }
 ]
