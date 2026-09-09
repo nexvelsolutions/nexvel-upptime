@@ -59,6 +59,10 @@ status-website:
   baseUrl: /nexvel-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Nexvel Solutions Client Status
+  # Keep this status page out of search results
+  robotsText: |
+    User-agent: *
+    Disallow: /
   introTitle: "**Nexvel Solutions** client website uptime monitor and status page."
   introMessage: This status page tracks the uptime of websites we manage for our clients, powered entirely by GitHub Actions, Issues, and Pages.
   navbar:
