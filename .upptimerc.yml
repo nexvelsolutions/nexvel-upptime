@@ -50,7 +50,7 @@ sites:
   - name: Zakian
     url: https://www.zakianrugs.com/
   - name: Test Down Site 2
-    url: https://httpstat.us
+    url: https://www.nexvelsolutions.com/
 
 status-website:
   # No custom domain — using the default GitHub Pages path instead
