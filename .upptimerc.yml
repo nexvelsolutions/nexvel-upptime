@@ -53,6 +53,8 @@ sites:
     url: https://surreystrathmorewp.com/
   - name: Zakian
     url: https://www.zakianrugs.com/
+  - name: Netlify Test Site
+    url: https://nexvel-upptime-test.netlify.app/status?code=200
 
 status-website:
   # No custom domain — using the default GitHub Pages path instead
