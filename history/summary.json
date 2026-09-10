@@ -418,19 +418,19 @@
     "url": "https://nexvel-upptime-test.netlify.app/status?code=200",
     "icon": "https://icons.duckduckgo.com/ip3/nexvel-upptime-test.netlify.app.ico",
     "slug": "netlify-test-site",
-    "status": "up",
-    "uptime": "61.33%",
-    "uptimeDay": "61.33%",
-    "uptimeWeek": "61.33%",
-    "uptimeMonth": "61.33%",
-    "uptimeYear": "61.33%",
-    "time": 127,
-    "timeDay": 127,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "status": "down",
+    "uptime": "52.75%",
+    "uptimeDay": "52.75%",
+    "uptimeWeek": "52.75%",
+    "uptimeMonth": "52.75%",
+    "uptimeYear": "52.75%",
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {
-      "2026-09-10": 5
+      "2026-09-10": 13
     }
   }
 ]
