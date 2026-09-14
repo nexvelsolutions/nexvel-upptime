@@ -22,18 +22,20 @@
     "url": "https://sickappliance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sickappliance.com.ico",
     "slug": "appliance-doctor",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 194,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 291,
+    "timeDay": 142,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
+    "dailyMinutesDown": {
+      "2026-09-14": 1
+    }
   },
   {
     "name": "Bill Frusco",
@@ -202,18 +204,20 @@
     "url": "https://www.highpointdental.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.highpointdental.com.ico",
     "slug": "highpoint-dental",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 66,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 332,
+    "timeDay": 96,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2026-09-14": 1
+    }
   },
   {
     "name": "Himmelstein",
@@ -274,18 +278,20 @@
     "url": "https://jenkintownendo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jenkintownendo.com.ico",
     "slug": "jenkintown-endo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 52,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 240,
+    "timeDay": 56,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2026-09-14": 0
+    }
   },
   {
     "name": "MMK",
@@ -418,17 +424,19 @@
     "url": "https://www.zakianrugs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zakianrugs.com.ico",
     "slug": "zakian",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1898,
-    "timeDay": 853,
-    "timeWeek": 1898,
-    "timeMonth": 1898,
-    "timeYear": 1898,
-    "dailyMinutesDown": {}
+    "time": 1813,
+    "timeDay": 440,
+    "timeWeek": 1813,
+    "timeMonth": 1813,
+    "timeYear": 1813,
+    "dailyMinutesDown": {
+      "2026-09-14": 0
+    }
   }
 ]
