@@ -62,19 +62,19 @@
     "url": "https://bossplumbingheating.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bossplumbingheating.com.ico",
     "slug": "boss-plumbing-and-heating",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 449,
-    "timeDay": 282,
-    "timeWeek": 225,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 528,
+    "timeDay": 1511,
+    "timeWeek": 540,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2026-09-21": 1
+      "2026-09-21": 5
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://www.phildibelloroofing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.phildibelloroofing.com.ico",
     "slug": "di-bello",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 251,
-    "timeWeek": 255,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 421,
+    "timeDay": 250,
+    "timeWeek": 254,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2026-09-21": 0
+      "2026-09-21": 4
     }
   },
   {
