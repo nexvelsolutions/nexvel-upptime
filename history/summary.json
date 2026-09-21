@@ -62,18 +62,20 @@
     "url": "https://bossplumbingheating.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bossplumbingheating.com.ico",
     "slug": "boss-plumbing-and-heating",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 449,
     "timeDay": 282,
     "timeWeek": 225,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-21": 1
+    }
   },
   {
     "name": "Cooper",
@@ -100,9 +102,9 @@
     "url": "https://www.phildibelloroofing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.phildibelloroofing.com.ico",
     "slug": "di-bello",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +113,9 @@
     "timeWeek": 255,
     "timeMonth": 427,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-21": 0
+    }
   },
   {
     "name": "Dr. Levin",
@@ -190,19 +194,19 @@
     "url": "https://gworksplumbing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gworksplumbing.com.ico",
     "slug": "greate-works-plumbing",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 478,
-    "timeDay": 415,
-    "timeWeek": 320,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 472,
+    "timeDay": 360,
+    "timeWeek": 318,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2026-09-21": 1
+      "2026-09-21": 10
     }
   },
   {
