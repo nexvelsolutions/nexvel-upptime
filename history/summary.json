@@ -190,18 +190,20 @@
     "url": "https://gworksplumbing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gworksplumbing.com.ico",
     "slug": "greate-works-plumbing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 478,
     "timeDay": 415,
     "timeWeek": 320,
     "timeMonth": 478,
     "timeYear": 478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-21": 1
+    }
   },
   {
     "name": "Highpoint Dental",
