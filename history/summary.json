@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sickappliance.com.ico",
     "slug": "appliance-doctor",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 312,
     "timeDay": 64,
     "timeWeek": 367,
@@ -380,9 +380,9 @@
     "url": "https://www.sdaccounting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sdaccounting.com.ico",
     "slug": "sd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -391,7 +391,9 @@
     "timeWeek": 367,
     "timeMonth": 511,
     "timeYear": 511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 0
+    }
   },
   {
     "name": "State Road",
