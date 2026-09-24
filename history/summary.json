@@ -380,19 +380,19 @@
     "url": "https://www.sdaccounting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sdaccounting.com.ico",
     "slug": "sd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 364,
-    "timeWeek": 367,
-    "timeMonth": 511,
-    "timeYear": 511,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 499,
+    "timeDay": 239,
+    "timeWeek": 335,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2026-09-24": 0
+      "2026-09-24": 4
     }
   },
   {
