@@ -214,20 +214,20 @@
     "url": "https://www.highpointdental.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.highpointdental.com.ico",
     "slug": "highpoint-dental",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 763,
-    "timeDay": 285,
-    "timeWeek": 1375,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 761,
+    "timeDay": 378,
+    "timeWeek": 1303,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2026-09-14": 20,
-      "2026-09-28": 15
+      "2026-09-28": 25
     }
   },
   {
