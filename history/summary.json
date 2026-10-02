@@ -122,19 +122,19 @@
     "url": "https://www.aperiodoc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aperiodoc.com.ico",
     "slug": "dr-levin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.80%",
+    "uptimeDay": "99.76%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1373,
-    "timeDay": 2564,
-    "timeWeek": 2697,
-    "timeMonth": 1373,
-    "timeYear": 1373,
+    "time": 1533,
+    "timeDay": 5173,
+    "timeWeek": 3333,
+    "timeMonth": 1533,
+    "timeYear": 1533,
     "dailyMinutesDown": {
-      "2026-10-02": 3
+      "2026-10-02": 4
     }
   },
   {
@@ -294,7 +294,7 @@
     "status": "down",
     "uptime": "95.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.15%",
+    "uptimeWeek": "84.14%",
     "uptimeMonth": "95.11%",
     "uptimeYear": "95.11%",
     "time": 340,
@@ -304,7 +304,7 @@
     "timeYear": 340,
     "dailyMinutesDown": {
       "2026-09-14": 20,
-      "2026-10-02": 1178,
+      "2026-10-02": 1179,
       "2026-10-01": 419
     }
   },
