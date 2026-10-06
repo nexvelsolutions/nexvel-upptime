@@ -122,21 +122,21 @@
     "url": "https://www.aperiodoc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aperiodoc.com.ico",
     "slug": "dr-levin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.57%",
+    "uptimeDay": "99.53%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 2409,
-    "timeDay": 0,
-    "timeWeek": 6389,
-    "timeMonth": 2409,
-    "timeYear": 2409,
+    "time": 2433,
+    "timeDay": 3528,
+    "timeWeek": 6128,
+    "timeMonth": 2433,
+    "timeYear": 2433,
     "dailyMinutesDown": {
       "2026-10-02": 4,
       "2026-10-04": 1,
-      "2026-10-06": 6
+      "2026-10-06": 7
     }
   },
   {
@@ -295,7 +295,7 @@
     "slug": "jenkintown-endo",
     "status": "up",
     "uptime": "84.75%",
-    "uptimeDay": "37.18%",
+    "uptimeDay": "37.24%",
     "uptimeWeek": "43.06%",
     "uptimeMonth": "84.75%",
     "uptimeYear": "84.75%",
