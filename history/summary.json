@@ -181,9 +181,9 @@
     "url": "https://www.goodmanplumbers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodmanplumbers.com.ico",
     "slug": "goodman-plumbers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -192,7 +192,9 @@
     "timeWeek": 475,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-07": 0
+    }
   },
   {
     "name": "Greate Works Plumbing",
@@ -296,11 +298,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkintownendo.com.ico",
     "slug": "jenkintown-endo",
     "status": "up",
-    "uptime": "85.64%",
+    "uptime": "85.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "43.06%",
-    "uptimeMonth": "85.64%",
-    "uptimeYear": "85.64%",
+    "uptimeMonth": "85.65%",
+    "uptimeYear": "85.65%",
     "time": 388,
     "timeDay": 384,
     "timeWeek": 825,
