@@ -219,12 +219,12 @@
     "url": "https://www.highpointdental.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.highpointdental.com.ico",
     "slug": "highpoint-dental",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 691,
     "timeDay": 746,
     "timeWeek": 402,
@@ -232,7 +232,8 @@
     "timeYear": 691,
     "dailyMinutesDown": {
       "2026-09-14": 20,
-      "2026-09-28": 35
+      "2026-09-28": 35,
+      "2026-10-07": 8
     }
   },
   {
@@ -295,11 +296,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkintownendo.com.ico",
     "slug": "jenkintown-endo",
     "status": "up",
-    "uptime": "85.63%",
+    "uptime": "85.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "43.06%",
-    "uptimeMonth": "85.63%",
-    "uptimeYear": "85.63%",
+    "uptimeMonth": "85.64%",
+    "uptimeYear": "85.64%",
     "time": 388,
     "timeDay": 384,
     "timeWeek": 825,
