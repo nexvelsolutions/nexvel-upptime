@@ -433,9 +433,9 @@
     "url": "https://surreystrathmorewp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/surreystrathmorewp.com.ico",
     "slug": "surrey-strathmore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -444,7 +444,9 @@
     "timeWeek": 333,
     "timeMonth": 288,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-28": 0
+    }
   },
   {
     "name": "Zakian",
