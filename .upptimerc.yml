@@ -7,6 +7,8 @@ repo: nexvel-upptime # The name of this repository
 skipDeleteIssues: true
 
 sites:
+  - name: Al's Roofing
+    url: https://alsroofing.org/
   - name: Angel
     url: https://www.angelhvac.com/
   - name: Appliance Doctor
