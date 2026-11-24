@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 0,
-    "timeWeek": 188,
+    "timeWeek": 174,
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -31,7 +31,7 @@
     "time": 375,
     "timeDay": 0,
     "timeWeek": 328,
-    "timeMonth": 362,
+    "timeMonth": 348,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2026-09-19": 2
@@ -43,19 +43,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/sickappliance.com.ico",
     "slug": "appliance-doctor",
     "status": "down",
-    "uptime": "81.78%",
+    "uptime": "80.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.48%",
-    "uptimeYear": "81.78%",
+    "uptimeMonth": "52.51%",
+    "uptimeYear": "80.80%",
     "time": 309,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 366,
+    "timeMonth": 360,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2026-09-14": 20,
-      "2026-11-23": 356,
+      "2026-11-24": 220,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -86,7 +87,7 @@
     "time": 418,
     "timeDay": 0,
     "timeWeek": 362,
-    "timeMonth": 369,
+    "timeMonth": 363,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -104,7 +105,7 @@
     "time": 399,
     "timeDay": 0,
     "timeWeek": 256,
-    "timeMonth": 416,
+    "timeMonth": 410,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2026-09-21": 5
@@ -124,7 +125,7 @@
     "time": 473,
     "timeDay": 0,
     "timeWeek": 243,
-    "timeMonth": 286,
+    "timeMonth": 281,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2026-09-21": 5
@@ -144,7 +145,7 @@
     "time": 378,
     "timeDay": 0,
     "timeWeek": 347,
-    "timeMonth": 353,
+    "timeMonth": 339,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2026-09-21": 4
@@ -164,7 +165,7 @@
     "time": 1649,
     "timeDay": 0,
     "timeWeek": 283,
-    "timeMonth": 415,
+    "timeMonth": 409,
     "timeYear": 1649,
     "dailyMinutesDown": {
       "2026-10-02": 4,
@@ -188,7 +189,7 @@
     "time": 349,
     "timeDay": 0,
     "timeWeek": 223,
-    "timeMonth": 323,
+    "timeMonth": 312,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -206,7 +207,7 @@
     "time": 346,
     "timeDay": 0,
     "timeWeek": 215,
-    "timeMonth": 365,
+    "timeMonth": 362,
     "timeYear": 346,
     "dailyMinutesDown": {}
   },
@@ -224,7 +225,7 @@
     "time": 440,
     "timeDay": 0,
     "timeWeek": 305,
-    "timeMonth": 460,
+    "timeMonth": 457,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2026-10-07": 15
@@ -244,7 +245,7 @@
     "time": 388,
     "timeDay": 0,
     "timeWeek": 325,
-    "timeMonth": 348,
+    "timeMonth": 337,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-09-21": 10
@@ -255,21 +256,22 @@
     "url": "https://www.highpointdental.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.highpointdental.com.ico",
     "slug": "highpoint-dental",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 580,
-    "timeDay": 0,
-    "timeWeek": 220,
-    "timeMonth": 380,
-    "timeYear": 580,
+    "time": 576,
+    "timeDay": 192,
+    "timeWeek": 214,
+    "timeMonth": 368,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2026-09-14": 20,
       "2026-09-28": 35,
-      "2026-10-07": 8
+      "2026-10-07": 8,
+      "2026-11-24": 1
     }
   },
   {
@@ -277,18 +279,20 @@
     "url": "https://www.louisbhimmelsteinlaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.louisbhimmelsteinlaw.com.ico",
     "slug": "himmelstein",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 0,
-    "timeWeek": 195,
-    "timeMonth": 338,
-    "timeYear": 320,
-    "dailyMinutesDown": {}
+    "time": 318,
+    "timeDay": 148,
+    "timeWeek": 186,
+    "timeMonth": 326,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2026-11-24": 1
+    }
   },
   {
     "name": "Hirschberg",
@@ -304,7 +308,7 @@
     "time": 383,
     "timeDay": 0,
     "timeWeek": 285,
-    "timeMonth": 380,
+    "timeMonth": 372,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -322,7 +326,7 @@
     "time": 377,
     "timeDay": 0,
     "timeWeek": 184,
-    "timeMonth": 297,
+    "timeMonth": 288,
     "timeYear": 377,
     "dailyMinutesDown": {}
   },
@@ -332,15 +336,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkintownendo.com.ico",
     "slug": "jenkintown-endo",
     "status": "up",
-    "uptime": "94.63%",
+    "uptime": "94.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.63%",
+    "uptimeYear": "94.69%",
     "time": 362,
     "timeDay": 0,
     "timeWeek": 161,
-    "timeMonth": 383,
+    "timeMonth": 385,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2026-09-14": 20,
@@ -365,7 +369,7 @@
     "time": 445,
     "timeDay": 0,
     "timeWeek": 395,
-    "timeMonth": 423,
+    "timeMonth": 408,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -383,7 +387,7 @@
     "time": 418,
     "timeDay": 0,
     "timeWeek": 228,
-    "timeMonth": 454,
+    "timeMonth": 423,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -401,7 +405,7 @@
     "time": 446,
     "timeDay": 0,
     "timeWeek": 275,
-    "timeMonth": 441,
+    "timeMonth": 440,
     "timeYear": 446,
     "dailyMinutesDown": {}
   },
@@ -437,7 +441,7 @@
     "time": 323,
     "timeDay": 0,
     "timeWeek": 203,
-    "timeMonth": 351,
+    "timeMonth": 350,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -455,7 +459,7 @@
     "time": 404,
     "timeDay": 0,
     "timeWeek": 219,
-    "timeMonth": 334,
+    "timeMonth": 323,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2026-09-24": 4
@@ -475,7 +479,7 @@
     "time": 492,
     "timeDay": 0,
     "timeWeek": 378,
-    "timeMonth": 525,
+    "timeMonth": 522,
     "timeYear": 492,
     "dailyMinutesDown": {}
   },
@@ -493,7 +497,7 @@
     "time": 291,
     "timeDay": 0,
     "timeWeek": 186,
-    "timeMonth": 308,
+    "timeMonth": 306,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-10-28": 5
@@ -513,7 +517,7 @@
     "time": 1391,
     "timeDay": 0,
     "timeWeek": 213,
-    "timeMonth": 389,
+    "timeMonth": 379,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2026-09-14": 18,
